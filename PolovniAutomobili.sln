@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassModels", "ClassModels\ClassModels.csproj", "{EEEC50EC-54DD-4CD0-B00F-53A450A6ABDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolovniAutomobiliWebApi", "..\PolovniAutomobiliWebApi\PolovniAutomobiliWebApi.csproj", "{C692B99F-DF85-45E1-B072-D68A3B10F61D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEEC50EC-54DD-4CD0-B00F-53A450A6ABDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEC50EC-54DD-4CD0-B00F-53A450A6ABDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEC50EC-54DD-4CD0-B00F-53A450A6ABDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEC50EC-54DD-4CD0-B00F-53A450A6ABDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C692B99F-DF85-45E1-B072-D68A3B10F61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C692B99F-DF85-45E1-B072-D68A3B10F61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C692B99F-DF85-45E1-B072-D68A3B10F61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C692B99F-DF85-45E1-B072-D68A3B10F61D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2FC73C5-24D8-41B0-A8A3-23394EB86D62}
+	EndGlobalSection
+EndGlobal
